@@ -1,1 +1,6 @@
-https://smooth-comma-232.notion.site/Binary-Search-Algorithm-10aed477590243d6aeacd0da94bccbbb
+Binary_Search
+Video from Luv
+link : https://www.youtube.com/watch?v=gcYvFVZ_LUA&list=PLauivoElc3gjE_s-7owHO0RVb_jj7Rx85&index=2
+5 video
+Number - 1: learned very beautiful technique to avoid infinite loop 
+            by using only (hi - lo > 1 )
